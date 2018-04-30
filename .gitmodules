@@ -1348,6 +1348,3 @@
 [submodule "PCSmithy/DB15_Female_Right_Angle.pretty"]
 	path = PCSmithy/DB15_Female_Right_Angle.pretty
 	url = https://github.com/PCSmithy/DB15_Female_Right_Angle.pretty
-[submodule "Junes-PhD/kicad_arbitrary_pad_example"]
-	path = Junes-PhD/kicad_arbitrary_pad_example
-	url = https://github.com/Junes-PhD/kicad_arbitrary_pad_example

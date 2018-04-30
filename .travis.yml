@@ -15,5 +15,5 @@ matrix:
           env: LOAD_INTO_KICAD=false
 script:
   - ./init
-  - ./update
   - if $LOAD_INTO_KICAD; then PYTHONPATH=/usr/lib/python2.7/dist-packages python load_all.py; fi
+  - ./update
